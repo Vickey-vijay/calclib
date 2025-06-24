@@ -11,7 +11,7 @@ setup(
     description="A simple calculator library for basic arithmetic operations",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/calclib",
+    url="https://github.com/Vickey-vijay/calclib/",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
